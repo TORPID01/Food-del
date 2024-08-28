@@ -1,4 +1,4 @@
-"# Food-del" 
+# Food Delivery App
 ## Overview
 
 This project is a simple Food Delivery App built with the following technologies:
